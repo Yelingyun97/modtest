@@ -1,9 +1,9 @@
-package test
+package modtest
 
 import (
 	"fmt"
 )
 
 func hello() {
-    fmt.Println("Hello, world!")
+	fmt.Println("Hello, world!")
 }
